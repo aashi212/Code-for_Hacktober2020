@@ -1,7 +1,3 @@
-// Today, we're building on our knowledge of Arrays by adding another dimension. Check out the Tutorial tab for learning materials and an instructional video!
-
-// Context
-// Given a  2D Array, :
 
 // 1 1 1 0 0 0
 // 0 1 0 0 0 0
